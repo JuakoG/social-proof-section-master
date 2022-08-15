@@ -365,4 +365,8 @@ font-weight: 300;
 
 
 }
-
+@media screen and(max-width: 1000px){
+    .border-comment1{
+        background-color: aqua;
+    }
+}
